@@ -2,8 +2,10 @@ h1{
   font-size: 32px;
   font-family: Paltino, serif;
   font-color: purple
+  text-align: center;
 }
 h3{
   font-size: 20px;
   font-family: Georgia, serif;
+  text-align: center;
 }
