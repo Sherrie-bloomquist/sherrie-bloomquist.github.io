@@ -16,9 +16,9 @@ body{
 background-color: paleturquoise;
 color: midnightblue;
 }
-.highlights{
+div.highlights{
 font-size: 15px;
 }
-.experience{
+div.experience{
   font-size: 15px;
 }
