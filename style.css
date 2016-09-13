@@ -24,7 +24,7 @@ margin:10px;
 }
 .boxed{
   font-size:30px;
-  border:2px solid purple;
+  border:1px dashed purple;
   text-align:center;
   font-weight:bold;
 }
