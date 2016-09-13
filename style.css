@@ -15,9 +15,9 @@ body{
 background-color: paleturquoise;
 color: midnightblue;
 }
-div.highlights{
-font-size: 30px;
+.alignleft {
+  float: left; 
 }
-div.experience{
-  font-size: 30px;
+.alignright{
+  float: right;  
 }
