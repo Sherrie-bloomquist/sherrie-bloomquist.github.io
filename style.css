@@ -23,5 +23,6 @@ margin:10px;
   font-size:30px;
 }
 .boxed{
+  font-size:30px;
   double-lined border:2px solid purple;
 }
