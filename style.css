@@ -16,8 +16,10 @@ background-color: paleturquoise;
 color: midnightblue;
 }
 .alignleft {
-  float: left; 
+  float: left;
+  clear: both;
 }
 .alignright{
-  float: right;  
+  float: right;
+  clear: both;
 }
