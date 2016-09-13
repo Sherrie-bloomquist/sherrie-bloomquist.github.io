@@ -17,9 +17,7 @@ color: midnightblue;
 }
 .alignleft {
   float: left;
-  clear: both;
 }
 .alignright{
   float: right;
-  clear: both;
 }
