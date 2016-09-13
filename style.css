@@ -1,12 +1,12 @@
 h1{
-  font-size: 32px;
+  font-size: 60px;
   font-family: Paltino, serif;
   color: purple;
   text-align: center;
   }
 h3{
-  font-size: 20px;
-  font-family: Georgia, serif;
+  font-size: 30px;
+  font-family: Paltino, serif;
   text-align: center;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -14,4 +14,5 @@ h3{
 body{
 background-color: paleturquoise;
 color: midnightblue;
+margin:10px;
 }
