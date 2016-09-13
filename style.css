@@ -25,4 +25,5 @@ margin:10px;
 .boxed{
   font-size:30px;
   border:2px solid purple;
+  text-align:center;
 }
