@@ -22,6 +22,6 @@ margin:10px;
 .headline{
   font-size:30px;
 }
-.subtext{
-  font-size:30px;
+.boxed{
+  double-lined border:2px solid purple;
 }
