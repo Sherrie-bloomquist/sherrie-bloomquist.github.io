@@ -3,7 +3,8 @@ h1{
   font-family: Paltino, serif;
   color: purple;
   text-align: center;
-  text-shadow: 1px 2px 2px #000
+  text-shadow: 1px 2px 2px #000;
+  margin-bottom: -10px;
     
   }
 h3{
