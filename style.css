@@ -7,10 +7,17 @@ h1{
   margin-bottom: -10px;
     
   }
-h3{
+#phone{
   font-size: 20px;
   font-family: Paltino, serif;
-  text-align: center;
+  float: left;
+  margin-bottom: 5px;
+  padding: 2px;
+}
+#email{
+  font-size: 20px;
+  font-family: Paltino, serif;
+  float: right;
   margin-bottom: 5px;
   padding: 2px;
 }
