@@ -8,7 +8,6 @@ h3{
   font-size: 30px;
   font-family: Paltino, serif;
   text-align: center;
-  margin-top: 5px;
   margin-bottom: 5px;
 }
 body{
@@ -21,7 +20,9 @@ margin:50px 150px;
 
 .subheader{
   background-color: grey;
-  font-size:30px;
+  text-align: center
+  color: white;
+  font-size:75px;
   padding-bottom:5px;
 }
 .boxed{
