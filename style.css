@@ -12,7 +12,7 @@ h3{
   margin-bottom: 5px;
 }
 body{
-background-color: paleturquoise;
+background-color: cornsilk;
 color: midnightblue;
 font-family: Paltino, serif;
 font-size: 25px;
@@ -45,4 +45,7 @@ margin:50px 150px;
 img{
  display: block;
  margin: 0 auto;
+}
+.header{
+  float: left;
 }
