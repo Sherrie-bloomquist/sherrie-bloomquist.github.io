@@ -13,7 +13,8 @@ h1{
   float: left;
   margin-bottom: 100px;
   padding: 2px;
-  margin-right: -75px
+  margin-right: -200px
+  
 }
 #email{
   font-size: 20px;
@@ -67,7 +68,7 @@ margin:50px 150px;
   
 }
 a{
-  color: #68a88b;
+  color: #579390;
 }
 #footer{
   position: relative;
