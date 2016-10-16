@@ -12,7 +12,7 @@ h1{
   font-family: Paltino, serif;
   text-align: center;
   margin-bottom: 2px;
-  padding: 2px;
+  padding: 2px 2px -2px 2px;
   
 }
 #email{
@@ -20,7 +20,7 @@ h1{
   font-family: Paltino, serif;
   text-align: center;
   margin-bottom: 50px;
-  padding: 2px;
+  padding: -2px 2px 2px 2px;
 }
 body{
 background-color: lightgray;
