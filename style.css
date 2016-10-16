@@ -11,16 +11,16 @@ h1{
   font-size: 20px;
   font-family: Paltino, serif;
   text-align: center;
-  margin-bottom: 5px;
-  padding: 5px;
+  margin-bottom: 2px;
+  padding: 2px;
   
 }
 #email{
   font-size: 20px;
   font-family: Paltino, serif;
   text-align: center;
-  margin-bottom: 100px;
-  padding: 5px;
+  margin-bottom: 50px;
+  padding: 2px;
 }
 body{
 background-color: lightgray;
