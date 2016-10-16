@@ -66,7 +66,9 @@ margin:50px 150px;
   text-align: center;
   
 }
-  
+a{
+  color: #a1afc6;
+}
 #footer{
   position: relative;
   border-radius: 5px;
