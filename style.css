@@ -35,6 +35,11 @@ margin:50px 150px;
 .header{
   
 }
+.subtitle{
+  font-size: 20px;
+  border-radius: 50%
+}
+  
 #footer{
   border-radius: 5px;
   height: 10px;
