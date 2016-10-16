@@ -49,9 +49,11 @@ margin:50px 150px;
   Background-color: #00ffff;
   color: #000;
   border-radius: 2px;
-  font-size: 15px;
+  font-size: 20px;
   box-shadow: 2px 1px #000;
-  margin-right: 400px;
+  width: 200px;
+  height: 40px;
+
 }
 #customer-service{
   
