@@ -1,9 +1,9 @@
 h1{
   font-size: 40px;
   font-family: Paltino, serif;
-  color: purple;
+  color: #579390;
   text-align: center;
-  text-shadow: 1px 2px 2px #000;
+  text-shadow: 1px 2px #000;
   margin-bottom: -10px;
     
   }
@@ -31,7 +31,6 @@ font-size: 15px;
 margin:50px 150px;
 }
 
-.
 .header{
   margin-bottom: 75px;
   
