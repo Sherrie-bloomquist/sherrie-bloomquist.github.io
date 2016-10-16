@@ -49,11 +49,11 @@ margin:50px 150px;
 #footer{
   position: relative;
   border-radius: 5px;
-  height: 30px;
+  height: 50px;
   width: 300px;
   background-color: darkgray;
   color: #000;
   clear: both;
   display: inline;
   text-align: center;
-  font-size: 10px;
+  font-size: 15px;
