@@ -13,7 +13,7 @@ h1{
   float: left;
   margin-bottom: 100px;
   padding: 2px;
-  margin-right: -25px
+  margin-right: -75px
 }
 #email{
   font-size: 20px;
@@ -21,7 +21,7 @@ h1{
   float: right;
   margin-bottom: 100px;
   padding: 2px;
-  margin-left: -25px;
+  margin-left: -75px;
 }
 body{
 background-color: lightgray;
@@ -32,7 +32,7 @@ margin:50px 150px;
 }
 
 .header{
-  margin-bottom: 75px;
+  margin-bottom: 150px;
   
 }
 .subtitle{
