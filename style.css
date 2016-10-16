@@ -41,10 +41,12 @@ margin:50px 150px;
 }
   
 #footer{
+  position: relative;
   border-radius: 5px;
-  height: 10px;
-  width: 200px;
-  color: gray;
+  height: 30px;
+  width: 300px;
+  background-color: darkgray;
+  color: #000;
   clear: both;
   display: inline;
   text-align: center;
