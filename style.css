@@ -57,6 +57,14 @@ margin:50px 150px;
 
 }
 #customer-service{
+  background-color: #5e79a5;
+  color: #000;
+  border-radius: 2px;
+  font-size: 18px;
+  box-shadow: 2px 1px #000;
+  width: 150px;
+  height: 30px;
+  text-align: center;
   
 }
   
